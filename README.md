@@ -179,7 +179,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Video Editor",
     icon: backend,
   },
   {
